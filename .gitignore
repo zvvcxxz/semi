@@ -24,7 +24,6 @@ config/
 **/templates/apiService/**
 **/templates/layout/**
 **/dist/api/**
-**/templates/apiService/**
 
 application.yml
 MailSender.java
