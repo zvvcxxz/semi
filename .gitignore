@@ -22,8 +22,9 @@ config/
 
 #빌드 파일 무시
 **/templates/apiService/**
-**/templates/layout/layout3.html
+**/templates/layout/**
 **/dist/api/**
+**/templates/apiService/**
 
 application.yml
 MailSender.java
